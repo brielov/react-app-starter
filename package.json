@@ -31,7 +31,7 @@
     "eslint-plugin-react-hooks": "^4.2.0",
     "husky": "^7.0.1",
     "is-ci": "^3.0.0",
-    "jest": "^27.0.6",
+    "jest": "^27.1.0",
     "lint-staged": "^11.1.2",
     "postcss": "^8.3.6",
     "prettier": "^2.3.2",
